@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **Mah6od/Mah6od** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Welcome to My GitHub Profile! :wave:
+
+🚀 Hey there! I'm Mahbod, a passionate learner and developer.
+
+## GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mah6od&show_icons=true&count_private=true&hide=issues&theme=radical)
+
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mah6od&theme=radical)
+
+## Contributions
+
+- 🌟 I've been actively contributing to open source projects.
+- 📈 My GitHub contributions speak for my commitment to coding.
+- 🚧 Currently working on improving my skills in AI & Django.
+
+Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/mahbod-zp/)!
+
+Happy coding! :rocket:
