@@ -40,7 +40,3 @@ Here are some ideas to get you started:
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahbod-zp/)
-
-Feel free to explore my repositories and connect with me on LinkedIn!
-
-Happy coding! :rocket:
