@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mah6od&show_icons=true&count_private=true&hide=issues&theme=radical)
 
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mah6od&theme=radical)
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahbod-zp/)
