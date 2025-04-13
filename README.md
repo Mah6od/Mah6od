@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 # Welcome to My GitHub Profile! :wave:
   
-- 😄 I'm Mahbod Zamanpour, 23 years old.
+- 😄 I'm Mahbod Zamanpour.
 - 🚀 Passionate about learning and eager to contribute to web and AI development.
 - ⚡ Looking to collaborate on Innovative Projects.
 - 📚 Love reading books on personal development.
